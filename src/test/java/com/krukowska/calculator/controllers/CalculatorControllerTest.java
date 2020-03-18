@@ -30,9 +30,11 @@ class CalculatorControllerTest {
 
     @Test
     public void shouldReturnAddingResultJSON() throws Exception {
+        //given
         EquationResult equationResult = new EquationResult(2);
         given(service.add(1, 1)).willReturn(equationResult);
-        mvc.perform(get("/v1/add/1/1")
+        //when/then
+        mvc.perform(get("/v1/add?val1=1&val2=1")
                 .contentType(MediaType.APPLICATION_JSON))
                 .andExpect(status().isOk())
                 .andExpect(content().string(containsString("{\"result\":2}")));

@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.websocket.server.PathParam;
+
 @RestController
 public class CalculatorController {
 
@@ -17,8 +19,8 @@ public class CalculatorController {
         this.calculatorService = calculatorService;
     }
 
-    @GetMapping(value = "/v1/add/{val1}/{val2}")
-    public EquationResult addNumbers(@PathVariable int val1, @PathVariable int val2) {
+    @GetMapping(value = "/v1/add")
+    public EquationResult addNumbers(@PathParam("val1") int val1, @PathParam("val2") int val2) {
         return calculatorService.add(val1, val2);
     }
 
