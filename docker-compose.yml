@@ -1,6 +1,8 @@
 version: '3'
 services:
   calculator:
+    image: edyta/calculator
     build: .
+    container_name: mycontainer
     ports:
       - "8080:8080"
