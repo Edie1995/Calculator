@@ -1,0 +1,15 @@
+[2020-03-23T19:56:32,845][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication on edyta-ThinkPad-T470 with PID 26472 (/home/edyta/Repository/java-playground/calculator/target/classes started by edyta in /home/edyta/Repository/java-playground/calculator)
+[2020-03-23T19:56:32,860][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-03-23T19:56:33,806][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 1.551 seconds (JVM running for 2.516)
+[2020-03-23T19:56:53,971][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication on edyta-ThinkPad-T470 with PID 26590 (/home/edyta/Repository/java-playground/calculator/target/classes started by edyta in /home/edyta/Repository/java-playground/calculator)
+[2020-03-23T19:56:53,981][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-03-23T19:56:55,042][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 1.555 seconds (JVM running for 2.534)
+[2020-03-23T19:58:00,177][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-03-23T20:00:50,534][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-03-23T20:01:25,440][INFO ][com.krukowska.calculator.controllers.CalculatorControllerTest] Starting CalculatorControllerTest on edyta-ThinkPad-T470 with PID 26989 (started by edyta in /home/edyta/Repository/java-playground/calculator)
+[2020-03-23T20:01:25,471][INFO ][com.krukowska.calculator.controllers.CalculatorControllerTest] No active profile set, falling back to default profiles: default
+[2020-03-23T20:01:26,989][INFO ][com.krukowska.calculator.controllers.CalculatorControllerTest] Started CalculatorControllerTest in 1.829 seconds (JVM running for 3.212)
+[2020-03-23T20:01:27,083][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-03-23T20:01:27,197][INFO ][com.krukowska.calculator.CalculatorApplicationTests] Starting CalculatorApplicationTests on edyta-ThinkPad-T470 with PID 26989 (started by edyta in /home/edyta/Repository/java-playground/calculator)
+[2020-03-23T20:01:27,199][INFO ][com.krukowska.calculator.CalculatorApplicationTests] No active profile set, falling back to default profiles: default
+[2020-03-23T20:01:27,761][INFO ][com.krukowska.calculator.CalculatorApplicationTests] Started CalculatorApplicationTests in 0.587 seconds (JVM running for 3.984)
