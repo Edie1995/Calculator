@@ -7,9 +7,6 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - my-vol:/var/lib/docker/volumes/my-vol/_data
+      - ./var/log/calculator:/tmp/logs/servers.json
     logging:
       driver: json-file
-volumes:
-  my-vol:
-    external: true

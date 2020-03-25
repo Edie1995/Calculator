@@ -25,11 +25,8 @@
     <Loggers>
 
         <Logger name="org.springframework" level="ERROR"/>
-        <Logger name="org.springdoc" level="ERROR"/>
         <Logger name="org.hibernate" level="ERROR"/>
         <Logger name="org.apache" level="ERROR"/>
-        <Logger name="io.micrometer" level="ERROR"/>
-        <Logger name="io.swagger" level="ERROR"/>
 
         <Root additivity="false" level="DEBUG">
             <AppenderRef ref="CONSOLE"/>
