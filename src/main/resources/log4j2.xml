@@ -11,7 +11,7 @@
         </Console>
 
 
-        <RollingFile fileName="var/log/calculator/audit.log" filePattern="logs/audit-%d{yyyy-MM-dd}-%i.log" name="AUDIT_LOG">
+        <RollingFile fileName="/var/log/calculator/audit.log" filePattern="logs/audit-%d{yyyy-MM-dd}-%i.log" name="AUDIT_LOG">
             <LevelRangeFilter maxLevel="INFO" minLevel="INFO"/>
             <PatternLayout pattern="[%d{ISO8601}][%-5p][%-5c] %m%n"/>
             <Policies>

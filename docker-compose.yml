@@ -7,6 +7,7 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - ./var/log/calculator:/tmp/logs/servers.json
+      - ./var/log/calculator:/var/log/calculator
+
     logging:
       driver: json-file

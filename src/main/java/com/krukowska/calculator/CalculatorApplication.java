@@ -8,13 +8,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@Log4j2
 public class CalculatorApplication {
-    private static final Logger log = LogManager.getLogger(CalculatorApplication.class);
     public static void main(String[] args) {
-        log.error("odpalilem sie !!!");
         SpringApplication.run(CalculatorApplication.class, args);
-
     }
 
 }
