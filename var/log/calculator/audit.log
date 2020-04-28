@@ -184,3 +184,59 @@
 [2020-04-28T07:57:01,293][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
 [2020-04-28T07:57:29,430][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
 [2020-04-28T07:58:02,992][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T08:18:16,245][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T08:18:16,292][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T08:18:18,262][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 3.544 seconds (JVM running for 5.812)
+[2020-04-28T09:05:03,032][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:05:03,050][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:05:04,846][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.248 seconds (JVM running for 3.462)
+[2020-04-28T09:07:58,704][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:07:58,725][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:08:00,433][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.175 seconds (JVM running for 3.298)
+[2020-04-28T09:09:19,968][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:09:19,982][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:09:22,129][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.616 seconds (JVM running for 3.711)
+[2020-04-28T09:10:30,767][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T09:11:59,551][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:11:59,582][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:12:01,233][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.121 seconds (JVM running for 3.297)
+[2020-04-28T09:12:57,402][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:12:57,419][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:12:59,074][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.1 seconds (JVM running for 3.334)
+[2020-04-28T09:13:06,391][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T09:13:46,418][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:13:46,438][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:13:48,150][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.213 seconds (JVM running for 3.352)
+[2020-04-28T09:13:58,163][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T09:16:39,430][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:16:39,445][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:16:41,237][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.243 seconds (JVM running for 3.456)
+[2020-04-28T09:19:18,628][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:19:18,644][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:19:20,834][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.625 seconds (JVM running for 4.202)
+[2020-04-28T09:21:39,123][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:21:39,140][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:21:40,946][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.294 seconds (JVM running for 3.538)
+[2020-04-28T09:22:27,136][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:22:27,156][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:22:28,763][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.064 seconds (JVM running for 3.277)
+[2020-04-28T09:27:44,520][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:27:44,542][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:27:46,579][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.525 seconds (JVM running for 3.753)
+[2020-04-28T09:31:13,410][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:31:13,429][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:31:15,196][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.242 seconds (JVM running for 3.683)
+[2020-04-28T09:32:57,963][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:32:57,995][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:32:59,658][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.234 seconds (JVM running for 3.595)
+[2020-04-28T09:33:53,059][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:33:53,087][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:33:55,203][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.651 seconds (JVM running for 4.106)
+[2020-04-28T09:40:51,882][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:40:51,899][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:40:53,629][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.19 seconds (JVM running for 3.359)
+[2020-04-28T09:48:37,272][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T09:48:37,292][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T09:48:39,069][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.286 seconds (JVM running for 3.596)
+[2020-04-28T09:48:46,272][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T09:49:27,345][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
