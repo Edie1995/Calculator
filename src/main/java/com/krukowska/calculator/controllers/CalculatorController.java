@@ -2,7 +2,10 @@ package com.krukowska.calculator.controllers;
 
 import com.krukowska.calculator.model.EquationResult;
 import com.krukowska.calculator.services.CalculatorService;
+import io.prometheus.client.Histogram;
+import io.prometheus.client.Summary;
 import lombok.extern.log4j.Log4j2;
+import org.apache.coyote.Request;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

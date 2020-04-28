@@ -3,12 +3,9 @@ global:
   evaluation_interval: 15s # Evaluate rules every 15 seconds. The default is every 1 minute.
 
 scrape_configs:
-  - job_name: 'spring'
-    metrics_path: '/metrics'
+  - job_name: app
+    scrape_interval: 5s
+    metrics_path: /actuator/prometheus
     static_configs:
-      - targets: ['localhost:9090']
-        labels:
-          group: 'prometheus'
-      - targets: ['mycontainer:8080']
-        labels:
-          group: 'spring-app'
+     - targets:
+        - mycontainer:8080
