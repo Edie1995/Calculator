@@ -167,3 +167,20 @@
 [2020-03-26T09:46:35,547][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
 [2020-03-26T09:46:37,449][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.356 seconds (JVM running for 3.444)
 [2020-03-26T09:46:50,694][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T06:37:11,033][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T06:37:11,046][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T06:37:14,071][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 3.582 seconds (JVM running for 5.019)
+[2020-04-28T06:38:16,770][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T06:38:16,783][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T06:38:18,928][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 2.564 seconds (JVM running for 3.783)
+[2020-04-28T06:57:38,908][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:11:24,580][INFO ][com.krukowska.calculator.CalculatorApplication] Starting CalculatorApplication v0.0.1-SNAPSHOT on 82beeedf759c with PID 1 (/app.jar started by edyta in /)
+[2020-04-28T07:11:24,608][INFO ][com.krukowska.calculator.CalculatorApplication] No active profile set, falling back to default profiles: default
+[2020-04-28T07:11:27,075][INFO ][com.krukowska.calculator.CalculatorApplication] Started CalculatorApplication in 3.064 seconds (JVM running for 4.693)
+[2020-04-28T07:15:57,909][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:15:59,145][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:16:03,435][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:23:09,247][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:57:01,293][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:57:29,430][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
+[2020-04-28T07:58:02,992][INFO ][com.krukowska.calculator.controllers.CalculatorController] Result method accessed
